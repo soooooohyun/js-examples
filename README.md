@@ -17,3 +17,4 @@ Examples and Starter Kits using the new Metaplex JS SDK.
 - [Fetch and paginate NFTs in a given wallet](./paginate-nfts)
   ㅇㄹㅇㄹ
   ㅇㄴㄹㄴㅇㄹ
+  ㄴㅇㄹㅇㄴㄹ
