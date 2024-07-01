@@ -3,6 +3,7 @@
 Examples and Starter Kits using the new Metaplex JS SDK.
 
 ## Starter Kits
+
 - [Getting Started with Metaplex and Next.js](./getting-started-nextjs)
 - [Getting Started with Metaplex and CRA 4](./getting-started-react-cra4) (React and Webpack 4)
 - [Getting Started with Metaplex and CRA 5](./getting-started-react-cra5) (React and Webpack 5)
@@ -11,5 +12,7 @@ Examples and Starter Kits using the new Metaplex JS SDK.
 - [Getting Started with Metaplex and EsBuild](./getting-started-react-esbuild/) (React and EsBuild)
 
 ## Reference Implementations
+
 - [Connect with wallets in the browser](./connect-wallet)
 - [Fetch and paginate NFTs in a given wallet](./paginate-nfts)
+  ㅇㄹㅇㄹ
